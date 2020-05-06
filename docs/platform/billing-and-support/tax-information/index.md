@@ -40,9 +40,6 @@ If you have documents which state that your organization's services with Linode 
 
 Your tax ID may be added to your account via the [Linode Cloud Manager](https://cloud.linode.com) or the [Linode CLI](https://github.com/linode/linode-cli).
 
-{{< note >}}
-If you are using the Linode Classic Manager, review the [classic manager version of this guide](/docs/platform/billing-and-support/tax-information-classic-manager/#add-a-tax-id-to-your-linode-account) for alternative instructions.
-{{< /note >}}
 
 **Linode Cloud Manager**
 
